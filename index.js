@@ -38,7 +38,7 @@ lr.on('end', function () {
 
 
 
-testlogin("marcelo_tuba00@hotmail.com","23032011")
+//testlogin("marcelo_tuba00@hotmail.com","23032011")
 
 function testlogin(email,password) {
 	// Set the headers
